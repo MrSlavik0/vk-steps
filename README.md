@@ -1,18 +1,18 @@
 # vk-steps
 vk-steps - Module for cheating VK steps
 ***
-h1 Unstall
+Install
 ```js
 npm install vk-steps
 ```
 ---
-h1 Using
+Using
 ```js
 const steps = require("vk-steps");
 new steps();
 ```
 ---
-h1 Result
+Result
 ```js
 Get a token at
 https://oauth.vk.com/authorize?client_id=7539087&scope=1048578&redirect_uri=https://oauth.vk.com/blank.html&display=page&response_type=token&revoke=1
