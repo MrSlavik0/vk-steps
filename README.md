@@ -8,7 +8,7 @@ npm install steps-vk
 ---
 Using
 ```js
-const steps = require("vk-steps");
+const steps = require("steps-vk");
 new steps();
 ```
 ---
