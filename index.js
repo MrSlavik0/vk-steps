@@ -27,3 +27,5 @@ class steps {
         });
     }
 }
+
+module.exports = steps;
