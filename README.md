@@ -3,7 +3,7 @@ vk-steps - Module for cheating VK steps
 ***
 Install
 ```js
-npm install vk-steps-cheat
+npm install steps-vk
 ```
 ---
 Using
